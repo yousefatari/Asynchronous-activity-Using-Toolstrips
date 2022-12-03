@@ -1,0 +1,18 @@
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\bin\Debug\net6.0-windows\Using Toolstrips.exe
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\bin\Debug\net6.0-windows\Using Toolstrips.deps.json
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\bin\Debug\net6.0-windows\Using Toolstrips.runtimeconfig.json
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\bin\Debug\net6.0-windows\Using Toolstrips.dll
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\bin\Debug\net6.0-windows\Using Toolstrips.pdb
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.csproj.AssemblyReference.cache
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using_Toolstrips.Form1.resources
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.csproj.GenerateResource.cache
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.GeneratedMSBuildEditorConfig.editorconfig
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.AssemblyInfoInputs.cache
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.AssemblyInfo.cs
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.csproj.CoreCompileInputs.cache
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.dll
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\refint\Using Toolstrips.dll
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.pdb
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using Toolstrips.genruntimeconfig.cache
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\ref\Using Toolstrips.dll
+E:\برمجه المرئيه\visual programming-async\Using Toolstrips\Using Toolstrips\obj\Debug\net6.0-windows\Using_Toolstrips.Properties.Resources.resources
